@@ -22,7 +22,7 @@
 - 🚀 I dream of starting up my own company in the field of artificial intelligence
 - 💪 Rebellious against life and difficult circumstances
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/youssef-taha-70a300235/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at www.linkedin.com/in/yousseftaha1902 to see some of the projects I've worked on.
 
 
 <img align="centre" alt="Coding" width="800" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
