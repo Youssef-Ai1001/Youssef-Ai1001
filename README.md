@@ -137,10 +137,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Youssef-Ai1001/Youssef-Ai1001/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
