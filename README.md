@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <br>
 <h3 align="center">
   Welcome  👋  to Yousef Taha's profile!
@@ -22,7 +22,6 @@
 - 🚀 I dream of starting up my own company in the field of artificial intelligence
 - 💪 Rebellious against life and difficult circumstances
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
 
 ###
 <h3 align="left">Areas of Interest</h3>
