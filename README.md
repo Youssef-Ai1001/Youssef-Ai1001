@@ -1,4 +1,4 @@
-<img width="250" align="rigth" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <br>
 <h3 align="center">
   Welcome  👋  to Yousef Taha's profile!
