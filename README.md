@@ -138,9 +138,10 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-<p align='center'>
-    <iframe src="https://giphy.com/embed/O51MQ3DduOcGW6ofR3?autoplay=1" width="200" height="200" frameborder="0"></iframe>
+<p align="center">
+  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200">
 </p>
+
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ai1001&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ai1001" /> </p>
