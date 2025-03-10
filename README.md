@@ -23,9 +23,8 @@
 - 💪 Rebellious against life and difficult circumstances
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-<img align="centre" alt="Coding" width="800" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
 
-
+###
 <h3 align="left">Areas of Interest</h3>
 
 ![](https://img.shields.io/badge/-Data_Science-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
@@ -45,9 +44,8 @@
 ![](https://img.shields.io/badge/-Model_Deployment-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
 
 
-<h3 align="left">Tech Stack</h3>
-
 ###
+<h3 align="left">Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -100,11 +98,9 @@
 </div>
 
 ###
-
 <h3 align="left">Connect with Me</h3>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/yousseftaha1902/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -127,16 +123,13 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Ai1001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Ai1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ai1001&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ai1001" /> </p>
-
-###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-ai1001" alt="youssef-ai1001" /></a> </p>
 
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ai1001&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ai1001" /> </p>
