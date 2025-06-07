@@ -134,3 +134,8 @@
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ai1001&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ai1001" /> </p>
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
